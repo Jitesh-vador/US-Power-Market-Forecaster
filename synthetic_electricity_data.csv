@@ -1,0 +1,301 @@
+Year,State,Sector,Price (cents/kWh),Sales (MWh)
+2005,Alabama,Residential,7.5,15962
+2005,Alabama,Commercial,7.18,18784
+2005,Alabama,Industrial,6.86,23351
+2005,Alaska,Residential,7.77,15758
+2005,Alaska,Commercial,7.9,18318
+2005,Alaska,Industrial,8.19,23555
+2005,Arizona,Residential,7.3,16335
+2005,Arizona,Commercial,7.4,19561
+2005,Arizona,Industrial,7.85,22129
+2005,Arkansas,Residential,6.97,16393
+2005,Arkansas,Commercial,7.31,19572
+2005,Arkansas,Industrial,6.6,22074
+2005,California,Residential,7.88,15535
+2005,California,Commercial,7.01,17395
+2005,California,Industrial,7.2,22811
+2005,Colorado,Residential,7.03,14923
+2005,Colorado,Commercial,7.55,18949
+2005,Colorado,Industrial,6.4,22856
+2005,Connecticut,Residential,7.82,15942
+2005,Connecticut,Commercial,7.18,19310
+2005,Connecticut,Industrial,7.47,21569
+2005,Delaware,Residential,7.06,14510
+2005,Delaware,Commercial,7.38,19323
+2005,Delaware,Industrial,7.41,21789
+2005,Florida,Residential,7.48,15298
+2005,Florida,Commercial,7.63,18659
+2005,Florida,Industrial,7.6,23746
+2005,Georgia,Residential,6.89,15777
+2005,Georgia,Commercial,6.48,18789
+2005,Georgia,Industrial,6.54,23358
+2005,Hawaii,Residential,8.19,16183
+2005,Hawaii,Commercial,7.89,18968
+2005,Hawaii,Industrial,8.81,22379
+2005,Idaho,Residential,6.52,14389
+2005,Idaho,Commercial,6.29,19047
+2005,Idaho,Industrial,6.42,22306
+2005,Illinois,Residential,7.24,15175
+2005,Illinois,Commercial,7.42,17997
+2005,Illinois,Industrial,7.27,22759
+2005,Indiana,Residential,6.63,16637
+2005,Indiana,Commercial,6.87,17505
+2005,Indiana,Industrial,6.72,24388
+2005,Iowa,Residential,6.94,15291
+2005,Iowa,Commercial,6.99,18659
+2005,Iowa,Industrial,6.78,22851
+2005,Kansas,Residential,6.8,15569
+2005,Kansas,Commercial,6.4,19685
+2005,Kansas,Industrial,6.8,22416
+2005,Kentucky,Residential,6.08,16223
+2005,Kentucky,Commercial,6.49,18501
+2005,Kentucky,Industrial,6.28,21980
+2005,Louisiana,Residential,7.1,14848
+2005,Louisiana,Commercial,6.9,19156
+2005,Louisiana,Industrial,6.85,22971
+2005,Maine,Residential,7.2,16374
+2005,Maine,Commercial,7.74,17804
+2005,Maine,Industrial,7.8,24286
+2005,Maryland,Residential,7.39,15967
+2005,Maryland,Commercial,7.06,18712
+2005,Maryland,Industrial,7.57,22572
+2005,Massachusetts,Residential,7.84,15024
+2005,Massachusetts,Commercial,8.16,19302
+2005,Massachusetts,Industrial,7.6,22002
+2005,Michigan,Residential,7.01,15525
+2005,Michigan,Commercial,6.88,18617
+2005,Michigan,Industrial,6.99,23359
+2005,Minnesota,Residential,6.85,15474
+2005,Minnesota,Commercial,7.27,19253
+2005,Minnesota,Industrial,6.65,22119
+2005,Mississippi,Residential,6.66,15779
+2005,Mississippi,Commercial,6.63,18596
+2005,Mississippi,Industrial,6.86,22687
+2005,Missouri,Residential,6.66,14981
+2005,Missouri,Commercial,6.91,19246
+2005,Missouri,Industrial,6.2,22874
+2005,Montana,Residential,6.33,15801
+2005,Montana,Commercial,6.23,17892
+2005,Montana,Industrial,6.17,21976
+2005,Nebraska,Residential,6.63,16008
+2005,Nebraska,Commercial,6.59,19241
+2005,Nebraska,Industrial,6.31,23088
+2005,Nevada,Residential,7.37,16348
+2005,Nevada,Commercial,7.14,19313
+2005,Nevada,Industrial,7.56,23307
+2005,New Hampshire,Residential,7.8,14163
+2005,New Hampshire,Commercial,8.2,19294
+2005,New Hampshire,Industrial,8.15,22152
+2005,New Jersey,Residential,7.79,16120
+2005,New Jersey,Commercial,8.34,17997
+2005,New Jersey,Industrial,8.0,22378
+2005,New Mexico,Residential,7.01,14144
+2005,New Mexico,Commercial,6.8,17865
+2005,New Mexico,Industrial,7.2,24357
+2005,New York,Residential,7.84,15967
+2005,New York,Commercial,7.91,18080
+2005,New York,Industrial,8.01,23011
+2005,North Carolina,Residential,6.87,15915
+2005,North Carolina,Commercial,6.92,19266
+2005,North Carolina,Industrial,7.09,21981
+2005,North Dakota,Residential,6.21,15456
+2005,North Dakota,Commercial,6.01,18585
+2005,North Dakota,Industrial,5.81,22847
+2005,Ohio,Residential,6.97,14867
+2005,Ohio,Commercial,7.24,19159
+2005,Ohio,Industrial,6.85,22689
+2005,Oklahoma,Residential,6.56,15865
+2005,Oklahoma,Commercial,6.47,19451
+2005,Oklahoma,Industrial,6.71,22646
+2005,Oregon,Residential,6.45,15647
+2005,Oregon,Commercial,6.61,18501
+2005,Oregon,Industrial,6.23,22709
+2005,Pennsylvania,Residential,7.2,14869
+2005,Pennsylvania,Commercial,7.18,19183
+2005,Pennsylvania,Industrial,7.18,22588
+2005,Rhode Island,Residential,7.45,15259
+2005,Rhode Island,Commercial,7.59,18388
+2005,Rhode Island,Industrial,7.84,23395
+2005,South Carolina,Residential,6.72,15423
+2005,South Carolina,Commercial,6.96,18395
+2005,South Carolina,Industrial,6.8,23157
+2005,South Dakota,Residential,6.6,15377
+2005,South Dakota,Commercial,6.76,17711
+2005,South Dakota,Industrial,6.17,22252
+2005,Tennessee,Residential,6.46,14580
+2005,Tennessee,Commercial,6.44,18636
+2005,Tennessee,Industrial,6.54,23674
+2005,Texas,Residential,7.31,16202
+2005,Texas,Commercial,7.5,18390
+2005,Texas,Industrial,6.99,23533
+2005,Utah,Residential,6.3,16335
+2005,Utah,Commercial,6.38,18001
+2005,Utah,Industrial,6.1,22295
+2005,Vermont,Residential,7.27,15206
+2005,Vermont,Commercial,7.49,18617
+2005,Vermont,Industrial,7.41,23296
+2005,Virginia,Residential,6.42,15709
+2005,Virginia,Commercial,6.56,19208
+2005,Virginia,Industrial,6.67,22159
+2005,Washington,Residential,6.01,15467
+2005,Washington,Commercial,6.19,17871
+2005,Washington,Industrial,6.0,22562
+2005,West Virginia,Residential,6.15,14963
+2005,West Virginia,Commercial,6.15,18823
+2005,West Virginia,Industrial,6.02,23126
+2005,Wisconsin,Residential,6.93,14981
+2005,Wisconsin,Commercial,6.79,18520
+2005,Wisconsin,Industrial,7.03,23089
+2005,Wyoming,Residential,6.02,15291
+2005,Wyoming,Commercial,5.92,18501
+2005,Wyoming,Industrial,5.83,23067
+2006,Alabama,Residential,7.55,16035
+2006,Alabama,Commercial,8.12,19253
+2006,Alabama,Industrial,8.23,24351
+2006,Alaska,Residential,7.94,15888
+2006,Alaska,Commercial,8.32,18663
+2006,Alaska,Industrial,8.73,23253
+2006,Arizona,Residential,7.74,16632
+2006,Arizona,Commercial,7.87,19211
+2006,Arizona,Industrial,7.97,24335
+2006,Arkansas,Residential,7.85,16223
+2006,Arkansas,Commercial,7.33,19047
+2006,Arkansas,Industrial,7.21,23363
+2006,California,Residential,8.08,16275
+2006,California,Commercial,7.79,18608
+2006,California,Industrial,7.94,22819
+2006,Colorado,Residential,7.91,16271
+2006,Colorado,Commercial,7.4,19685
+2006,Colorado,Industrial,6.96,22709
+2006,Connecticut,Residential,8.58,16228
+2006,Connecticut,Commercial,7.98,19356
+2006,Connecticut,Industrial,8.23,23533
+2006,Delaware,Residential,7.87,16281
+2006,Delaware,Commercial,7.6,18712
+2006,Delaware,Industrial,8.29,23588
+2006,Florida,Residential,7.83,16478
+2006,Florida,Commercial,7.89,18974
+2006,Florida,Industrial,8.15,22687
+2006,Georgia,Residential,7.53,16489
+2006,Georgia,Commercial,7.3,18432
+2006,Georgia,Industrial,7.32,22971
+2006,Hawaii,Residential,8.31,16335
+2006,Hawaii,Commercial,8.79,18698
+2006,Hawaii,Industrial,8.68,23555
+2006,Idaho,Residential,6.9,15967
+2006,Idaho,Commercial,6.75,18873
+2006,Idaho,Industrial,6.59,23395
+2006,Illinois,Residential,7.76,15792
+2006,Illinois,Commercial,7.88,18789
+2006,Illinois,Industrial,7.61,23358
+2006,Indiana,Residential,7.33,16259
+2006,Indiana,Commercial,7.18,18949
+2006,Indiana,Industrial,7.03,23157
+2006,Iowa,Residential,7.31,16024
+2006,Iowa,Commercial,7.38,19302
+2006,Iowa,Industrial,7.48,22119
+2006,Kansas,Residential,7.09,16183
+2006,Kansas,Commercial,6.95,19047
+2006,Kansas,Industrial,7.1,23501
+2006,Kentucky,Residential,6.72,16393
+2006,Kentucky,Commercial,6.67,18596
+2006,Kentucky,Industrial,6.57,23359
+2006,Louisiana,Residential,7.67,15915
+2006,Louisiana,Commercial,7.43,18823
+2006,Louisiana,Industrial,7.21,22759
+2006,Maine,Residential,7.98,15777
+2006,Maine,Commercial,8.19,18659
+2006,Maine,Industrial,8.04,22851
+2006,Maryland,Residential,8.17,16335
+2006,Maryland,Commercial,7.84,18318
+2006,Maryland,Industrial,7.99,23307
+2006,Massachusetts,Residential,8.38,16281
+2006,Massachusetts,Commercial,8.44,18784
+2006,Massachusetts,Industrial,8.47,23379
+2006,Michigan,Residential,7.79,15942
+2006,Michigan,Commercial,7.34,18388
+2006,Michigan,Industrial,7.57,22295
+2006,Minnesota,Residential,7.21,16035
+2006,Minnesota,Commercial,7.48,18520
+2006,Minnesota,Industrial,6.86,22874
+2006,Mississippi,Residential,7.3,15865
+2006,Mississippi,Commercial,7.15,18395
+2006,Mississippi,Industrial,6.9,23126
+2006,Missouri,Residential,7.03,16120
+2006,Missouri,Commercial,7.16,18617
+2006,Missouri,Industrial,6.84,23378
+2006,Montana,Residential,6.68,15291
+2006,Montana,Commercial,6.64,18698
+2006,Montana,Industrial,6.55,22572
+2006,Nebraska,Residential,6.95,15259
+2006,Nebraska,Commercial,6.99,19156
+2006,Nebraska,Industrial,6.66,22252
+2006,Nevada,Residential,7.91,15535
+2006,Nevada,Commercial,7.77,18789
+2006,Nevada,Industrial,7.65,23067
+2006,New Hampshire,Residential,8.51,15962
+2006,New Hampshire,Commercial,8.57,18968
+2006,New Hampshire,Industrial,8.38,22811
+2006,New Jersey,Residential,8.53,15525
+2006,New Jersey,Commercial,8.59,19323
+2006,New Jersey,Industrial,8.5,23011
+2006,New Mexico,Residential,7.49,15758
+2006,New Mexico,Commercial,7.18,18501
+2006,New Mexico,Industrial,7.63,22709
+2006,New York,Residential,8.49,16008
+2006,New York,Commercial,8.53,18636
+2006,New York,Industrial,8.57,23296
+2006,North Carolina,Residential,7.57,15569
+2006,North Carolina,Commercial,7.31,18974
+2006,North Carolina,Industrial,7.37,23746
+2006,North Dakota,Residential,6.33,16120
+2006,North Dakota,Commercial,6.48,19451
+2006,North Dakota,Industrial,6.29,22159
+2006,Ohio,Residential,7.57,15423
+2006,Ohio,Commercial,7.57,18585
+2006,Ohio,Industrial,7.4,22646
+2006,Oklahoma,Residential,7.16,16024
+2006,Oklahoma,Commercial,6.72,19246
+2006,Oklahoma,Industrial,6.85,22971
+2006,Oregon,Residential,6.93,15175
+2006,Oregon,Commercial,6.91,19253
+2006,Oregon,Industrial,6.41,22562
+2006,Pennsylvania,Residential,7.86,16183
+2006,Pennsylvania,Commercial,7.74,18080
+2006,Pennsylvania,Industrial,7.8,22588
+2006,Rhode Island,Residential,8.22,15298
+2006,Rhode Island,Commercial,8.02,18968
+2006,Rhode Island,Industrial,8.04,22378
+2006,South Carolina,Residential,7.13,15291
+2006,South Carolina,Commercial,7.18,18390
+2006,South Carolina,Industrial,6.86,24286
+2006,South Dakota,Residential,6.88,16202
+2006,South Dakota,Commercial,7.11,18001
+2006,South Dakota,Industrial,6.59,22847
+2006,Tennessee,Residential,7.1,15456
+2006,Tennessee,Commercial,6.95,19159
+2006,Tennessee,Industrial,6.91,22689
+2006,Texas,Residential,7.98,15467
+2006,Texas,Commercial,8.03,18873
+2006,Texas,Industrial,7.42,23674
+2006,Utah,Residential,6.7,16374
+2006,Utah,Commercial,6.7,18659
+2006,Utah,Industrial,6.38,23555
+2006,Vermont,Residential,7.98,16259
+2006,Vermont,Commercial,7.81,18617
+2006,Vermont,Industrial,7.79,22306
+2006,Virginia,Residential,7.03,16489
+2006,Virginia,Commercial,6.9,18501
+2006,Virginia,Industrial,6.9,23501
+2006,Washington,Residential,6.42,16637
+2006,Washington,Commercial,6.51,19266
+2006,Washington,Industrial,6.23,23088
+2006,West Virginia,Residential,6.54,16335
+2006,West Virginia,Commercial,6.63,18789
+2006,West Virginia,Industrial,6.46,23363
+2006,Wisconsin,Residential,7.41,15024
+2006,Wisconsin,Commercial,7.35,18501
+2006,Wisconsin,Industrial,7.27,23089
+2006,Wyoming,Residential,6.13,15801
+2006,Wyoming,Commercial,6.26,18585
+2006,Wyoming,Industrial,6.24,23351
